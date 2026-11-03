@@ -1,0 +1,7 @@
+{
+  "name": "magarsa-belemo-payment",
+  "version": "1.0.0",
+  "dependencies": {
+    "telebirr-receipt": "^1.0.0"
+  }
+}
